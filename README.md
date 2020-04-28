@@ -5,4 +5,4 @@ Naive Bayes is a popular algorithm for text classification. It is a probabilisti
 The multinomial Naive Bayes classifier is suitable for classification with discrete features (e.g., word counts for text classification).
 Our implementation contains the fit and predict methods. Also methods for generating vocabs, cleaning documents and reading our data.
 
-More information can be found at: medium link coming soon.
+More information can be found at: https://medium.com/softup-technologies/building-a-ml-model-that-predicts-news-category-given-a-news-title-65c74867d876.
