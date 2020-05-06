@@ -145,7 +145,7 @@ class Implementation():
         nb.fit(x_train, y_train) 
         """        
         nb.fit(x_train, y_train, save = True) 
-        predictions = nb.predict([x_test], cached = False)
+        predictions = nb.predict(x_test, cached = False)
 
         print('Accuracy: ', predictions, self.accuracy(predictions, y_test))
       
